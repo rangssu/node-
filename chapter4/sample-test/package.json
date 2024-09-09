@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "sample-package": "file:../sample-package",
+    "main" : "index.js"
+  }
+}
